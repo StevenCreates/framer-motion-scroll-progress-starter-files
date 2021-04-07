@@ -5,7 +5,6 @@
 - Star Repo
 - Clone Repo
 - Npm install
-- See Spinner
 
 ### Resources
 
