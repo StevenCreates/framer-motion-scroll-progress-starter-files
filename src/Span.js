@@ -1,14 +1,12 @@
 import React from 'react'
 import styled from 'styled-components';
 
-
-
 const SpanContainer = styled.div`
-margin-top: 300px;
-max-width: 600px;
-margin-left: 30%;
-font-size: 30px;
-display: inline-block;
+    margin-top: 300px;
+    max-width: 600px;
+    margin-left: 30%;
+    font-size: 30px;
+    display: inline-block;
 `;
 
 const BigBlob = styled.div`
